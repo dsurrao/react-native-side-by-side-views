@@ -1,0 +1,26 @@
+{
+  "name": "react-native-side-by-side-views",
+  "version": "1.0.0",
+  "description": "Display two views side by side",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsurrao/react-native-side-by-side-views.git"
+  },
+  "keywords": [
+    "side-by-side",
+    "compare"
+  ],
+  "author": "Dominic Surrao <dsurrao@hotmail.com> (http://dominicsurrao.com)",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">= 16.0",
+    "react-native": ">= 0.50.3"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.0"
+  }
+}
