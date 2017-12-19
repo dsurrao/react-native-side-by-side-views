@@ -11,3 +11,6 @@ build/Release
 node_modules
 res
 examples
+.git
+.gitignore
+.expo

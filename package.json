@@ -1,8 +1,8 @@
 {
   "name": "react-native-side-by-side-views",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "Display two views side by side",
-  "main": "index.js",
+  "main": "SideBySide.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

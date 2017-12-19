@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { Dimensions, Image, PanResponder, StyleSheet, Text, TouchableHighlight,
   View } from 'react-native';
 
-export class SideBySide extends React.Component {
+export default class SideBySide extends Component {
   _dividerHeight = 35;
   _dividerWidth = 35;
   _dividerOpacity = 0.5;
@@ -148,3 +148,5 @@ const styles = StyleSheet.create({
     borderRadius: 35
   }
 });
+
+export { SideBySide };
