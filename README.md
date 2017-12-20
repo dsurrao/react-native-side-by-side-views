@@ -61,3 +61,8 @@ const styles = StyleSheet.create({
   }
 });
 ```
+
+## Installation
+```
+npm i react-native-side-by-side-views --save
+```
