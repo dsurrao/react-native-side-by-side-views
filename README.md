@@ -1,6 +1,9 @@
 # react-native-side-by-side-views
 ## Displays two views side by side
 
+![Demo](https://drive.google.com/open?id=10-pwRDfHbjhky-0iAS1PYsFGUa85MPvA)
+
+
 ```
 import React from 'react';
 import { Image, StyleSheet, Text, View } from 'react-native';
