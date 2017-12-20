@@ -2,8 +2,6 @@
 ## Displays two views side by side
 
 ![Demo](https://github.com/dsurrao/react-native-side-by-side-views-examples/blob/master/react-native-side-by-side-views-demo.gif)
-[[ https://github.com/dsurrao/react-native-side-by-side-views-examples/blob/master/react-native-side-by-side-views-demo.gif | height = 200px ]]
-
 
 
 ```
