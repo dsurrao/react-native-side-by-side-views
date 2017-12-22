@@ -3,7 +3,12 @@
 
 ![Demo](https://github.com/dsurrao/react-native-side-by-side-views-examples/blob/master/react-native-side-by-side-views-demo.gif)
 
+## Installation
+```
+npm i react-native-side-by-side-views --save
+```
 
+## Usage
 ```
 import React from 'react';
 import { Image, StyleSheet, Text, View } from 'react-native';
@@ -60,9 +65,4 @@ const styles = StyleSheet.create({
     width: 350,
   }
 });
-```
-
-## Installation
-```
-npm i react-native-side-by-side-views --save
 ```
