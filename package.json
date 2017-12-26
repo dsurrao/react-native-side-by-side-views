@@ -1,6 +1,6 @@
 {
   "name": "react-native-side-by-side-views",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "Display two views side by side",
   "main": "SideBySide.js",
   "scripts": {
@@ -16,10 +16,6 @@
   ],
   "author": "Dominic Surrao <dsurrao@hotmail.com> (http://dominicsurrao.com)",
   "license": "ISC",
-  "peerDependencies": {
-    "react": ">= 16.0",
-    "react-native": ">= 0.50.3"
-  },
   "devDependencies": {
     "babel-preset-react-native": "^4.0.0"
   }
