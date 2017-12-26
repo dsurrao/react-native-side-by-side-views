@@ -17,7 +17,13 @@ import { SideBySide } from 'react-native-side-by-side-views';
 export default class App extends React.Component {
   render() {
     return (
-      <SideBySide style={styles.container}>
+      <SideBySide style={styles.container}
+        dividerStyle={{
+          height: 300,
+          width: 3,
+          borderRadius: 10,
+          opacity: 0.7,
+          backgroundColor: 'red'}}>
         <View>
           <Image source={require('./img/img_1.jpg')} style={styles.images}/>
           <Text>

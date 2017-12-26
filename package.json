@@ -1,6 +1,6 @@
 {
   "name": "react-native-side-by-side-views",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Display two views side by side",
   "main": "SideBySide.js",
   "scripts": {
